@@ -1,0 +1,24 @@
+# January 23rd
+
+
+## *Lessons from the Woodshop: Cultivating Design with Living Materials*
+by Kristin N. Dew and Daniela K. Rosner
+
+Dew and Rosner's ethnography of timber in the context of building tiny houses provides an opportunity to discuss the opportunities afforded by and possible detriments of an ethnographical approach to inform HCI and technology design. First, their in-depth study showcases significant immersion in their field of inquiry. This provides tangible context for the source of their observations and mitigates concerns of exploitation. Second, the ethnography allows for in-depth extrapolation on account of their exposure and analysis of multiple facets of any given practice (for example, consider how they discuss scarf joint which is informed by their instructor, their peers and other domain experts, and their own experience in crafting it in the context of a larger project). At the same time, given the longevity required, the risk in not knowing whether or not any observations will be applicable to designing technologies and to what extent is high. This precipitates another point. Since the ethnography is contextualized in the project of building tiny houses, it is unclear whether the conclusions drawn are relevant to the entire field of working with timber. Moreover, there is less evidence that the domain specific observations wouldn't be contradicted from immersion in another area of making or way to test them in the context of working with HCI design.
+
+
+## *Hybrid Practice in the Kalahari: Design Collaboration through Digital Tools and Hunter-Gatherer Craft*
+by Jennifer Jacobs and Amit Zoran
+
+This paper uses a very different approach through collaborative making. The authors directly state several of the limitations of scope in their experiment design and the methodology directly focuses on outlining the means of collaboration. Not only does this approach provide alternative perspectives without relying on the ability of the authors to firsthand employ them in practice but it also creates the ability to observe facets of practice that might not be apparent due to one's cultural background or habitual experience (note the emphasis on making in community). Finally, this approach examines informing design through another perspective but it also evaluates the understanding of design and craft itself (a specific example is the description of craft as a means of cross-cultural communication). This discussion is invaluable as it provides a way to bridge other domains and bring understanding from multiple cultures and creative practices into the conversation without exploiting or overlooking significant experience and knowledge. The biggest drawback of this approach is that the lack of immersion may contribute to concerns about reduction and othering (note Hunter Gatherer in the title) and as a whole it may be perceived as a form of appropriation.
+
+## *Do-It-Yourself Cellphones: An Investigation into the Possibilities and Limits of High-Tech DIY*
+by David A. Mellis and Leah Buechley
+
+Autobiographical design
++ immersion, inconvenience, high personal cost  --> opportunity for fine grained observation
++ might suit the work (DIY), about individual experience
+- individual biases / conclusions (interaction limited subset of observations, sources for feedback)
+- limited in scope
+
+Mellis and Buechley present an autobiographical approach through their investigation of DIY cellphones. On one hand, the authors provide different means of assessment by conducting a personal study including nine months where a DIY cellphone is the author's primary phone and the other is in workshops both with designers and members of the general publics. Like an ethnography approach, the autobiographical method creates in-depth immersion. However, the effect is different. The intense interaction which does involve a high personal cost and inconvenience provides the opportunity for fine grained observation and refinement. The author is able to troubleshoot many problems he encounters and have several experiences that may have been difficult to manufacture let alone conceive of as a result of the duration of the project. The drawbacks of this approach may be that the observations (although offset by the inclusion of workshops where others make and a couple friends experiment with prolonged use) of the DIY cellphone seem very personal and individual. That is, individual biases may shape the observations and the conclusions are limited to observations drawn from one set of experiences, one source for feedback. This may not only affect the observations but also skew them on account of whatever innate predispositions the individual may have. Finally, it's noteworthy that perhaps the approach matched the content of the study -- for a project centering on a DIY effort perhaps the best approach is autobiographical as DIY is about personal, individualized processes.
