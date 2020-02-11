@@ -1,4 +1,4 @@
-# January 23rd
+# February 4th
 
 
 ## *Lessons from the Woodshop: Cultivating Design with Living Materials*
