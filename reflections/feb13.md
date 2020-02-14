@@ -3,17 +3,19 @@
 ## *The Promise of Empathy: Design, Disability, and Knowing the “Other”*
 by Cynthia L. Bennet and Daniela K. Rosner
 
-Commitments from "Being like" to "Being with"
-
-1. Rather than seek to represent another’s experience, we seek partnerships in imagining the design encounter
-
-2. Rather than achieve an understanding, we seek a process of ongoing attunement
-
-3. Rather than attempt symmetry, we recognize and work with asymmetry.
+>> Commitments from "Being like" to "Being with"
+>>
+>> 1. Rather than seek to represent another’s experience, we seek partnerships in imagining the design encounter
+>>
+>> 2. Rather than achieve an understanding, we seek a process of ongoing attunement
+>>
+>> 3. Rather than attempt symmetry, we recognize and work with asymmetry.
 
 
 ## *Epistemological Pluralism and the Revaluation of the Concrete*
 by Sherry Turkle and Seymour Papert
+
+>> Such casualties are unnecessary. The computer can be a partner in a great diversity of relationships. The computer is an expressive medium that different people can make their own in their own way. But people who approach the computer in a "noncanonical" style are rarely given the opportunity to do so. They are discouraged by the dominant computer culture...they can pass a course or pass a test. They are not computer phobic, they don't need to stay away because of fear or panic. But they are computer reticent. They want to stay away, because the computer has come to symbolize an alien way of thinking. They learn to get by. And they learn to keep a certain distance.
 
 
 Both readings center on the challenges of understanding (or empathizing) with the experience of others.
@@ -24,13 +26,6 @@ experience of a person you were designing for or working with? Alternatively, ho
 experiences biased you towards valuing some forms of knowing or production over others?
 
 
-Empathy -- becoming the other / being with the other, not reifying difference
+*The Promise of Empathy* emphasized "being with" as opposed to "being like" the other when inviting participants with diverse perspectives into the design process. This corroborated some of my understanding and challenged me to further develop my thinking in how engaging with others who bring a different background to the table does not result in reifying our differences but rather seeks to acknowledge and accept it. To bring up a specific collaboration, I recall interviewing the Head of the Musicology department and a former ballet dancer with the American Ballet Theatre for a project I was working on at Princeton to build a dance historiography and choreography tool. While I had to mimic some of their movements to test out what I was working on during development, the idea that I could embody even a fraction of their experience or understanding was preposterous. My best bet was to seek to understand their approach or the key values and themes that emerged in their practice through transparency, observation, and asking for their insights regarding what the experience I was trying to prototype. It was more a process aligning our mental models. This brings up the idea of attunement. As the authors state, a need-finding collaboration cannot only come first I think it needs to be foregrounded in iterations in the design / development cycle. In fact, attunement leads to convergence as understanding grows. Lastly, their idea of not attempting symmetry but rather accepting asymmetry brings up an event I helped organize on Art & Activism. While we invited student groups into the discussion, we didn't try to get everyone on an equal footing in terms of facilitating conversations from an art historical point of view. We paired facilitators from student groups who brought their background and unique depth of understanding with art history students trained to perform and facilitate nuanced pictorial analysis. This idea of recognizing and working with asymmetry will augment the way I approach future collaborations and seek not to emphasize difference but to simply let it be an active actor.
 
-In collaboration, working with (adapting working styles -- negotiation for any team project)
-DSL for dance -- working to understand a dancer's perspective (trying out the movements -- quite frankly felt stupid) had to gain insight into the process. Approach collaboration with gratitude
-
-Need finding cannot only come first. Foreground in iteration -- attunement = convergence
-
-Acknowledging asymmetry (blind, even well-meaning idealism), don't emphasize difference but acknowledge it
-
-relate to something formally 
+*Epistemological Pluralism* was deeply resonant for me. Being involved in many women in STEM and CS groups, I have seen initial enthusiasm curbed leading to reticence and eventually even phobia as described by Turkle and Papert. This is a tragedy. Bright, eager minds that would not only benefit from the ability to use computation transformatively in their own work but would also bring diversity of thought and style to the table to enable more creative work are discriminated against. And as is the case with all discrimination, the most insidious forms are both unspoken and institutionalized. How can we encourage and normalize different styles of thinking in an educational context and in expert level production? Working on the Fragile Families challenge, I collaborated with a teammate who liked to be involved in every part of the process. Her preferred style of working was side-by-side with teddy bear programming. Even though this wasn't my preferred mode of collaboration, because it did not conflict with my process I worked in that manner and found I learned a lot from the process. It was a great experience. I have a strong preference for working styles that accommodate communication and promote individual exploration. I need time to dig into things (and maybe tinker) on my own but I like knowing what parts of the problem other people are investigating and sharing what we've accomplished so far. I also like to rapidly iterate on functional prototypes -- after establishing look and feel, I like to implement in multiple rounds starting from a bare bones but working implementation and then subsequently supporting more features. In the context of other collaborations, I have found it difficult to be in situations where people don't support or accept adaptability -- i.e. I try to communicate what I would like to do and they insist something has to be done a certain way. I see now that this might be due their adherence to their mental model in how they approach a problem, but I find the rigidity and the tendency to see their way as the "right way" to be distasteful. Instead, I can better articulate my working style and what I need to be productive and find ways to accommodate and even support both. I also expect to use this framework in how I approach mentorship and diversity and inclusion moving forward.
