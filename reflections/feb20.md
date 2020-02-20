@@ -37,7 +37,7 @@ Why do HCI Researchers Build Toolkits?
 (Are there value judgements attached to these in terms of which ones are preferable?)
 
 > As
-summarized by Olsen [82] in his reflective paper on evaluat ing systems research: “simple metrics can produce simplistic
+summarized by Olsen [82] in his reflective paper on evaluate ing systems research: “simple metrics can produce simplistic
 progress that is not necessarily meaningful.” The central
 question is thus: what is an evaluation? And, how do we reflect and evaluate such complex toolkit research?, 2 - 3.
 
