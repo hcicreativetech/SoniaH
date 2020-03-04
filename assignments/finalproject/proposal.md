@@ -6,10 +6,10 @@ Our project idea revolves around an assessment of the landscape of current anima
 
 For our theoretical framework, we would like to suggest using the 12 fundamental principles of animation(squash and stretch, anticipation, staging, straight ahead action and pose to pose, follow through and overlapping action, slow in and slow out, arc, secondary action, timing, exaggeration, solid drawing, and appeal) derived from pen and paper practice as well as notions surrounding creative practice (flow, reflection in action, interfaces as creative learning environments, constructivism, collaboration, risk, tinkerability, and interface affordances).
 
-References:
-State of Animation Tools in the Industry
-https://dl.acm.org/doi/abs/10.1145/2614208.2615530
-Animation on the web
-https://dl.acm.org/doi/abs/10.1145/2775292.2775298
-Predictive v. Passing Animation Tools
-https://dl.acm.org/doi/abs/10.1145/1508865.1509038
+References
+- State of Animation Tools in the Industry
+[https://dl.acm.org/doi/abs/10.1145/2614208.2615530]
+- Animation on the web
+[https://dl.acm.org/doi/abs/10.1145/2775292.2775298]
+- Predictive v. Passing Animation Tools
+[https://dl.acm.org/doi/abs/10.1145/1508865.1509038]
