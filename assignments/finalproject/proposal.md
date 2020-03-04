@@ -1,6 +1,6 @@
 # Proposal
 
-Working done in collaboration with Ari Gilmore
+Work done in collaboration with Ari Gilmore
 
 Our project idea revolves around an assessment of the landscape of current animation tools. We would like to assess practice as well as analyze the affordances of different categories of tools. Our primary interest is in identifying opportunity spaces. We intend to construct a design space to map out the types of production enabled by existing tools and audiences that engage with them. Some categories of tools we’ve identified are as follows: 2D animation tools, virtual reality animation tools, direct manipulation tools, professional animation tools, game engines, in-house production animation technology.
 
